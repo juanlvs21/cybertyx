@@ -352,7 +352,7 @@ body {
 }
 
 .contacto-card #descripcion {
-    resize: none;
+    resize: vertical;
 }
 
 

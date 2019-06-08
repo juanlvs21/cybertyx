@@ -102,7 +102,7 @@
             <div class="text-center text-white">
                 <h4>
                 La tecnología ha cambiado la forma de vivir desde siempre.
-                Estamos interconectados, de una forma u otraá.
+                Estamos interconectados, de una forma u otra.
                 </h4>
                 <p>-James Comey.</p>
             </div>
