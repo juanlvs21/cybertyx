@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
+        <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
 
         <title>Cybertyx</title>
 
@@ -191,13 +192,13 @@
                             <p>CEO</p>
                         </div>
                         <div class="team-redes mt-2 mb-3">
-                            <a href="https://twitter.com">
+                            <a class="btn btn-outline-ctyx" href="https://twitter.com">
                                 <i class="fa fa-twitter"></i>
                             </a>
-                            <a href="https://github.com">
+                            <a class="btn btn-outline-ctyx" href="https://github.com">
                                 <i class="fa fa-github"></i>
                             </a>
-                            <a href="https://linkedin.com">
+                            <a class="btn btn-outline-ctyx" href="https://linkedin.com">
                                 <i class="fa fa-linkedin"></i>
                             </a>
                         </div>
@@ -214,13 +215,13 @@
                             <p>CTO</p>
                         </div>
                         <div class="team-redes mt-2 mb-3">
-                            <a href="https://twitter.com">
+                            <a class="btn btn-outline-ctyx" href="https://twitter.com">
                                 <i class="fa fa-twitter"></i>
                             </a>
-                            <a href="https://github.com">
+                            <a class="btn btn-outline-ctyx" href="https://github.com">
                                 <i class="fa fa-github"></i>
                             </a>
-                            <a href="https://linkedin.com">
+                            <a class="btn btn-outline-ctyx" href="https://linkedin.com">
                                 <i class="fa fa-linkedin"></i>
                             </a>
                         </div>
