@@ -73,7 +73,7 @@
                     <p>
                         &nbsp;&nbsp;&nbsp;&nbsp;
                         Somos una empresa que acerca las tendencias tecnológicas a cualquier sector, nacida en 2019.
-                        Aunque es relativamente joven su equipo está formado por porfesionales totalmente calificados.
+                        Aunque es relativamente joven, su equipo está formado por profesionales completamente capacitados.
                         Nuestra misión es resolver las necesidades de nuestros clientes apoyándonos en las nuevas
                         tecnologías para adaptarlas a su entorno y potenciar su transformación digital.
                         Nuestros esfuerzos van dirigidos a crear soluciones concretas para problemas específicos,
@@ -81,10 +81,10 @@
                     </p>
                     <p>
                         &nbsp;&nbsp;&nbsp;&nbsp;
-                        Nos especializamos en el diseño y creación de paginas y apliciones web, así como
+                        Nos especializamos en el diseño y creación de páginas y aplicaciones web, así como
                         tambien en la creación de aplicaciones moviles. Por otra parte trabajamos en la
-                        automaticazión de procesos empleando IoT y Domotica. Del mismo modo contamos con
-                        personal para intalaciones de Redes.
+                        automatización de procesos empleando IoT y Domotica. Del mismo modo contamos con
+                        personal para instalaciones de Redes.
                     </p>
                     <p>
                         &nbsp;&nbsp;&nbsp;&nbsp;
